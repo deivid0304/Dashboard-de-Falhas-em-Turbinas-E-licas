@@ -1,1 +1,1 @@
-# Dashboard-de-Falhas-em-Turbinas-E-licas
+# Dashboard de Falhas em Turbinas Eólicas
